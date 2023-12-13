@@ -34,6 +34,6 @@
 https://dortania.github.io/OpenCore-Install-Guide/
 
 ## 关于WI-FI的说明
-因为Sonoma取消了对BCM94352Z的免驱动支持，所以需要使用OpenCore Legacy Patcher（OCLP）进行修复，具体教程可参考：
-https://zhuanlan.zhihu.com/p/646774043
+因为Sonoma取消了对BCM94352Z的免驱动支持，所以需要使用OpenCore Legacy Patcher（OCLP）进行修复，具体教程可参考：  
+https://zhuanlan.zhihu.com/p/646774043  
 需要注意的是，如果无法使用“ Start Root Patching”，可重启后重复操作。
