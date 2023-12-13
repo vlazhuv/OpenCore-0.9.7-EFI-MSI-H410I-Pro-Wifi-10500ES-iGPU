@@ -2,6 +2,10 @@
 # MacOS Sonoma 14.2
 # Hackintosh
 
+<img width="476" alt="截屏2023-12-13 16 29 44" src="https://github.com/vlazhuv/OpenCore-0.9.7-EFI-MSI-H410I-Pro-Wifi-10500ES-iGPU/assets/47969038/3f9d598a-6ae3-4d59-a3c8-5626d2df3a9c">
+<img width="945" alt="截屏2023-12-13 16 31 06" src="https://github.com/vlazhuv/OpenCore-0.9.7-EFI-MSI-H410I-Pro-Wifi-10500ES-iGPU/assets/47969038/7b0bcdeb-e132-4127-aa93-0be8052e810d">
+<img width="927" alt="截屏2023-12-13 16 31 35" src="https://github.com/vlazhuv/OpenCore-0.9.7-EFI-MSI-H410I-Pro-Wifi-10500ES-iGPU/assets/47969038/c172d6dc-fab4-4d95-aee4-c97b4597917e">
+
 ## 配置
 
 | Items       | Model               |
